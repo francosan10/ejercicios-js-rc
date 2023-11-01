@@ -14,3 +14,5 @@ for (let letra = 0; letra < frase.length; letra++) {
         console.log(vocales);
     }
 }
+
+// falta hacer
