@@ -8,7 +8,7 @@ frase = frase.toLowerCase();
 let vocales = "";
 
 for (let i = 0; i < frase.length; i++) {
-    letra = frase[i];
+    let letra = frase[i];
     console.log(letra);
     if (letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra === 'u') {
         vocales += letra;
