@@ -1,4 +1,4 @@
-// 9.- Escribe un programa que pida una frase y escriba las vocales que aparecen
+// 9.- Escribe un programa que pida una frase y escriba las vocales que aparecen.
 
 let frase = prompt('Ingrese una frase');
 frase = frase.toLowerCase();
